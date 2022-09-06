@@ -9,7 +9,10 @@ We've built our app using model-view-controller (MVC) architecture for organizat
 
 Take a look around and see what we've been up to!
 
-Thanks for stopping by!
+Thanks for stopping by
+
+!<img width="610" alt="Screen Shot 2022-09-06 at 11 19 31 AM" src="https://user-images.githubusercontent.com/102367926/188674591-f6048678-6084-455f-8017-ea5c734849de.png">
+
 
 ### Technologies
 HTML for content and structure, CSS and materialize for styling, JavaScript for behavior and interaction, Passport.js for authentication, Express as a framework for Node.js, EJS as a templating language, and MongoDB as a database.
