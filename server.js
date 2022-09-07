@@ -16,7 +16,7 @@ require('dotenv').config({path: './config/.env'})
 
 // Passport config
 require('./config/passport')(passport)
-// requiring all the crap we need to get it to run
+// requiring all the things we need to get the application to run
 
 connectDB()
 
