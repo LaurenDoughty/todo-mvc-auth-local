@@ -23,8 +23,8 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 ## Our Team
 |Name	| Website	| GitHub
 |-----|----------|-------|
-|Lauren Doughty|	[Lauren's website](laurendoughty.netlify.app/)|	[Lauren's GitHub](https://github.com/LaurenDoughty)|
-|Brandi H |	[Brandi's website](alternategait.dev) |	[Brandi's GitHub](https://github.com/alternategait)|
+|Lauren Doughty|	[Lauren's website](https://laurendoughty.netlify.app/)|	[Lauren's GitHub](https://github.com/LaurenDoughty)|
+|Brandi H |	[Brandi's website](https://alternategait.dev) |	[Brandi's GitHub](https://github.com/alternategait)|
 |Sehjong Hamjong	| [Sehjong's website](https://sehjong.me/)	| [Sehjong's GitHub](https://github.com/sehjong)|
 |Michael Nguyen |	[Michael's website](https://michaelnguyen.netlify.app/)	| [Michael's GitHub](https://github.com/MichaelNDev) |
 |Philip Simpson |	[Philip's Website](https://www.phitdev.com/) |	[Philip's GitHub](https://github.com/phitdev) |
