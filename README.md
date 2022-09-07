@@ -33,7 +33,7 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 ## Our Contributions
 ##### Lauren Doughty
 
--documentation, README.md
+- documentation, README.md
 
 ##### Brandi H
 
@@ -57,11 +57,11 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
 - added classes for styling purposes
 - utilized Materialize via href links
 - created classes via materialize npm docs
-  -style.css
-  -login.ejs
-  -signup.ejs
-  -index.ejs
-  -todos.ejs
+  - style.css
+  - login.ejs
+  - signup.ejs
+  - index.ejs
+  - todos.ejs
 - layout HTML within ejs files for label and inputs
 
 ##### Ben Thrasher
